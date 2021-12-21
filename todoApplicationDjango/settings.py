@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-r%h#91n8-u17yn3gdpwr$8+r&9a%1szpjq=%n#0ev4pu4cbs13
 DEBUG = False
 STATIC_DIR = os.path.join(BASE_DIR, 'static')
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'todo-application-python-django.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'python-django-todo-application.herokuapp.com']
 
 # Application definition
 
